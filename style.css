@@ -1,33 +1,54 @@
-textarea{
-    width: 80%;
+textarea {
+    width: 95%;
     height: 10vh;
     display: block;
     margin: 1rem;
     padding: 1rem;
 }
 
-#output{
+#output {
     border: 1px solid black;
     height: 10vh;
-    width: 80%;
+    width: 95%;
     margin: 1rem;
     padding: 1rem;
 }
 
-h1{
-    background-color: #FCD34D;
+h1 {
+    background-color: #1D4ED8;
     text-align: center;
-    width: 80%;
+    width: 95%;
     padding: 1rem;
     margin: 1rem;
 }
 
-#output-heading{
+#output-heading {
     text-align: center;
-    background-color: #FCD34D;
-    width: 80%;
+    background-color: #1D4ED8;
+    width: 95%;
     padding: 1rem;
     margin: 1rem;
     font-weight: bold;
     font-size: large;
 }
+
+#btn-translate {
+    background-color: #EF4444;
+    width: max-content;
+    min-width: 140px;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    margin: 1rem;
+    color: white;
+}
+
+#starwar-img {
+    width: 97%;
+    height: 200px;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+}
+
